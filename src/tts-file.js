@@ -1,5 +1,5 @@
 const axios = require("axios")
-
+const userAgents = require("./tools/user-agents.js")
 const saveFile = async(text, lang, file) => {
   if(!text) throw new Error('Provide the text!')
   if(!lang) thow new Error('Provide language codes! e.g Indonesian = ID, English = EN. This is used for the sound type.)
