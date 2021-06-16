@@ -15,14 +15,17 @@
     "type": "git",
     "url": "https://github.com/JastinXyz/google-tts.js"
   },
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/JastinXyz/google-tts.js/issues"
   },
   "homepage": "https://github.com/JastinXyz/google-tts.js#readme",
   "keywords": [
     "google-tts",
     "text-to-speech",
-    "google-text-to-speech"
+    "google-text-to-speech",
+    "google",
+    "texttospeech",
+    "googletexttospeech"
   ],
   "author": "Jastin <jastinlinggar@gmail.com>",
   "license": "MIT"
