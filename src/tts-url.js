@@ -1,4 +1,4 @@
-const withUrl = async(text, lang) => {
+const getUrl = async(text, lang) => {
   if(!text) throw new Error('Provide the text!')
   if(!lang) thow new Error('Provide language codes! e.g Indonesian = ID, English = EN. This is used for the sound type.)
   if(lang.length => 2) throw new Error('Invalid Language codes (must 2 string length). All Language Codes: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes')
@@ -11,4 +11,4 @@ const withUrl = async(text, lang) => {
   return result;
 }
 
-module.exports = withUrl;
+module.exports = getUrl;
