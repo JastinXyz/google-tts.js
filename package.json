@@ -1,12 +1,11 @@
 {
   "name": "google-tts.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A wrapper for the Google Text To Speech API with various features.",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.21.1",
-    "jastinch-api-wrapper": "^0.0.69",
-    "kbbi.js": "^1.0.3"
+    "fs": "^0.0.1-security"
   },
   "scripts": {
     "start": "node index.js"
