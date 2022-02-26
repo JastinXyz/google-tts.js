@@ -87,14 +87,3 @@ GoogleTts.saveFile("text", "language codes", "the location that will be filled b
 ```js
 GoogleTts.getUrl("text", "language codes")
 ```
-
-<div align="center">
-
-# Links
-</div>
-
-**API Site:** https://api.jastinch.xyz<br>
-**Donate:** https://api.jastinch.xyz/donate<br>
-**Discord:** https://api.jastinch.xyz/discord<br>
-**YouTube:** https://youtube.com/c/JastinCh
-
